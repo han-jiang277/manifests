@@ -67,4 +67,5 @@
 	<project name="external_rand"  path="external/rand"/>
 	<project name="external_rand_core"  path="external/rand_core"/>
 	<project name="external_rust-fatfs"  path="external/rust-fatfs"/>
+	<project name="external_newlib"  path="external/newlib"/>
 </manifest>
